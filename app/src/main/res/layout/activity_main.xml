@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:padding="24dp" android:gravity="center">
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="LANKA KEYBOARD PRO" android:textSize="24sp" android:textStyle="bold" />
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Step 1: Keyboard එක Enable කරන්න" android:layout_marginTop="32dp"/>
+<Button android:id="@+id/btnEnable" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ENABLE කරන්න" android:layout_marginTop="8dp"/>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Step 2: Keyboard එක තෝරන්න" android:layout_marginTop="24dp"/>
+<Button android:id="@+id/btnChoose" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="CHOOSE කරන්න (WhatsApp වලට)" android:layout_marginTop="8dp"/>
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ඊට පස්සේ WhatsApp එක open කරලා type කරලා බලන්න. ඔයාගේ Auto Translate එක එතන වැඩ!" android:layout_marginTop="32dp"/>
+</LinearLayout>
